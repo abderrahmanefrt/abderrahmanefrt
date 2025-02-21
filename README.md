@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**abderrahmanefrt/abderrahmanefrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm [FERHAT ABDERRAHMANE]!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with experience in building web and mobile applications. I enjoy working with modern technologies and solving complex problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on a **medical appointment management platform**.
+- 🌱 I’m exploring **Node.js, React.js, and Flutter**.
+- 💡 I love learning new technologies and collaborating on exciting projects.
+- 📫 How to reach me: [abderrahmaneferhat93@gmail.com](mailto:abderrahmaneferhat93@gmail.com)
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, SQL, C, Java, Python
+- **Frontend:** React.js, Next.js, TailwindCSS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL, Sequelize ORM, MongoDB
+- **Version Control:** Git, GitHub
+
+## 📌 Projects
+
+### 🏥 Medical Appointment Management Platform
+A web and mobile platform for booking and managing medical appointments.
+
+### 🖥️ Compiler
+A custom compiler project for educational or professional use.
+
+### 🌐 Portfolio
+A personal portfolio showcasing my work and skills.
+
+🔗 [GitHub Repository](#) | 🚀 [Live Demo](#)
+
+## 📢 Connect with Me
+
+- 🌍 [LinkedIn](#)
+- 🐦 [Twitter](#)
+- 📸 [Instagram](#)
+
+- ## Fun Fact
+
+I love coffee ☕ and coding in the early morningt! 
+
+⚡ **Let's build something amazing together!** 🚀
+
+
