@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm [FERHAT ABDERRAHMANE]!
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with experience in building web and mobile applications. I enjoy working with modern technologies and solving complex problems through code.
