@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with exp
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **medical appointment management platform**.
 - 🌱 I’m exploring **Node.js, React.js, Flutter, and Rust**.
 - 💡 I love learning new technologies and collaborating on exciting projects.
 - 📫 How to reach me: [abderrahmaneferhat93@gmail.com](mailto:abderrahmaneferhat93@gmail.com)
