@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Ferhat Abderrahmane!
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** specializing in building responsive web and mobile applications. I enjoy architecting efficient solutions and tackling complex challenges through clean, maintainable code.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** specializing in building responsive web and mobile applications. I also have a growing interest in **Computer Vision**, where I explore how machines can interpret and understand visual data. I enjoy architecting efficient solutions and tackling complex challenges through clean, maintainable code.
 
 ## 🚀 About Me
 
 - 💻 Currently working with: **Node.js, React, Flutter, and Rust**
-- 🌱 Learning: **Cloud Architecture & Advanced System Design**
-- 🔭 Interested in: **Compiler Design, Performance Optimization**
+- 🌱 Learning: **Computer Vision & Advanced System Design**
+- 🔭 Interested in: **AI & Machine Learning, Computer Vision, Compiler Design, Performance Optimization**
 - 📫 How to reach me: [abderrahmaneferhat93@gmail.com](mailto:abderrahmaneferhat93@gmail.com)
 - 🎯 Goal: To build scalable, performant applications that solve real-world problems
 
@@ -70,6 +70,13 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** speciali
 - Developed in Rust  
 - Features: Lexical analysis, parsing, code generation  
 - [GitHub Repo](#)
+
+### 👁️ Computer Vision Projects *(In Progress)*
+**Exploring the field of Computer Vision**  
+- Image classification & object detection with Python  
+- Experimenting with OpenCV & TensorFlow  
+- Future goal: Build real-world applications like medical image analysis or smart surveillance  
+- [Coming Soon 🚀]
 
 ## 📈 GitHub Stats
 
