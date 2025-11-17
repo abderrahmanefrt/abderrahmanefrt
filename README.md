@@ -106,7 +106,7 @@ Full-stack healthcare system
 
 ## 📈 GitHub Stats
 
-> **Replace `abderrahmanefrt` with your real GitHub username**
+> `abderrahmanefrt`
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
