@@ -91,7 +91,7 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
 Full-stack healthcare system  
 - React, Node.js, PostgreSQL  
 - Real-time scheduling, geolocation, reviews  
-- **[GitHub Repo](#)**
+- **[GitHub Repo](https://github.com/abderrahmanefrt/frontend-pfe)**
 
 ### 🛒 E-Commerce Platform  
 - Next.js, Express, MongoDB  
