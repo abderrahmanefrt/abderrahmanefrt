@@ -9,8 +9,8 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
 
 ## 🚀 About Me
 
-- 🔭 **Currently focusing on:** Computer Vision, AI/ML & Rust systems programming  
-- 💻 Working with: Node.js, React, Flutter, Python (OpenCV, TensorFlow), Rust  
+- 🔭 **Currently focusing on:** Computer Vision, AI/ML & systems programming  
+- 💻 Working with: Node.js, React, Flutter, Python (OpenCV, TensorFlow)  
 - 🌱 Learning: Deep Learning for vision, real-time detection & model optimization  
 - 🎯 Goal: Build intelligent, scalable applications powered by vision & automation  
 - 📫 Reach me: **abderrahmaneferhat93@gmail.com**
