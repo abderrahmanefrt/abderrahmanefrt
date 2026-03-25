@@ -97,9 +97,6 @@ Full-stack healthcare system
 - Authentication, inventory, admin dashboard  
 - **[GitHub Repo](#)**
 
-### 🖥️ Rust Compiler Project  
-- Lexer, parser, AST, code generation  
-- **[GitHub Repo](#)**
 
 ---
 
