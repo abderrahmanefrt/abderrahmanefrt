@@ -104,9 +104,9 @@ Full-stack healthcare system
 
 > `abderrahmanefrt`
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=abderrahmanefrt&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmanefrt&layout=compact&theme=radical)
 
 ---
 
