@@ -5,7 +5,7 @@ My current focus is on **AI, Machine Learning, and Vision Systems**—building m
 
 I enjoy solving real problems using efficient architectures, clean code, and modern tools across web, mobile, and AI ecosystems.
 
----
+
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
 - 🎯 Goal: Build intelligent, scalable applications powered by vision & automation  
 - 📫 Reach me: **abderrahmaneferhat93@gmail.com**
 
----
+
 
 ## 👁️ Computer Vision & AI — *My Main Focus*
 
