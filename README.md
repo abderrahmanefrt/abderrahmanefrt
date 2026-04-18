@@ -33,7 +33,7 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
 - 🧪 Experiments with YOLO, CNN architectures, custom datasets  
 - 🚀 Deploying CV models to mobile (Flutter) & web apps *(soon)*  
 
----
+
 
 ## 🛠️ Technical Stack
 
@@ -72,7 +72,7 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
----
+
 
 ## 🏆 Featured Projects
 
@@ -84,7 +84,7 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
 - Deployment experiments  
 🔗 *(Repos coming soon)*
 
----
+
 
 ### 🏥 Medical Appointment Platform  
 Full-stack healthcare system  
@@ -98,7 +98,7 @@ Full-stack healthcare system
 - **[GitHub Repo](#)**
 
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -108,7 +108,7 @@ Full-stack healthcare system
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmanefrt&layout=compact&theme=radical)
 
----
+
 
 ## 🤝 Connect With Me
 <p>
@@ -116,7 +116,7 @@ Full-stack healthcare system
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+
 
 ## 💡 Fun Fact  
 When I'm not coding, I'm probably experimenting with **camera setups, real-time filters, or brewing strong coffee ☕**.
