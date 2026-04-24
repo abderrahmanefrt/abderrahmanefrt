@@ -82,7 +82,7 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
 - Shape detection, contours, image filtering  
 - Dataset creation & training pipelines  
 - Deployment experiments  
-🔗 *(Repos coming soon)*
+
 
 
 
@@ -92,10 +92,7 @@ Full-stack healthcare system
 - Real-time scheduling, geolocation, reviews  
 - **[GitHub Repo](https://github.com/abderrahmanefrt/frontend-pfe)**
 
-### 🛒 E-Commerce Platform  
-- Next.js, Express, MongoDB  
-- Authentication, inventory, admin dashboard  
-- **[GitHub Repo](#)**
+
 
 
 
