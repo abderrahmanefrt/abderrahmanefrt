@@ -34,7 +34,6 @@ I enjoy solving real problems using efficient architectures, clean code, and mod
 - 🚀 Deploying CV models to mobile (Flutter) & web apps *(soon)*  
 
 
-
 ## 🛠️ Technical Stack
 
 ### Programming Languages
